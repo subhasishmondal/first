@@ -7,6 +7,10 @@ int main(){
     printf("office3\n");
     printf("office4\n");
     printf("office\n5\n");
+    debu
+        debu
+        debu
+        debu
      printf("Hello World!\nI am learning C.\nAnd it is awesome!");
 
     return 0;
