@@ -8,15 +8,7 @@ int main(){
     printf("office4\n");
     printf("office\n5\n");
      printf("Hello World!\nI am learning C.\nAnd it is awesome!");
-/*// ehgiefhighdfkjgdfklgndfkgbdfklgbdfkbgdfkbgkjdfbgkjbfkgbfgkjbkjgbdfkjgbdfkjbgdfkjbg
-// gdfzkbgkdfbgkdfbkgdbfkgbdfgnd
-// gdfknbgdfkgnfgn
-// sdfkjgfdkgdfkjg
-// gldfkgkjdfkjg
-// sjkfskjgkfkj
-// vbxkjbvfvb
-// fvkjgkdfnjgkd
-// ngdfkmngkdfnkgkngk*/
+
     return 0;
     }
 //printf()
